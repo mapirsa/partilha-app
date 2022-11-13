@@ -1,9 +1,6 @@
 # Import required packages
-import plotly.express as px
-import dash
-from dash import html
-from dash import dcc
-from dash.dependencies import Input, Output
+
+from dash import Dash, dcc, html, Input, Output
 
 import os 
 
