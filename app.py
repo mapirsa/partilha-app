@@ -1,11 +1,8 @@
 # Import required packages
-import pandas as pd
 import plotly.express as px
 import dash
 from dash import html
 from dash import dcc
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
 from dash.dependencies import Input, Output
 
 import os 
